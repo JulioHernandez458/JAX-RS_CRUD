@@ -1,0 +1,6 @@
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/domain/Persona.java
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/service/Configuration.java
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/service/IPersonaService.java
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/service/PersonaServiceImpl.java
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/datos/PersonaDaoImpl.java
+/home/julioh/Documentos/Netbeans-Projects/JAVA WEB/Web Services/JAX-RS/ejercicios/CRUD-JAX-RS/src/main/java/com/datos/PersonaDao.java
